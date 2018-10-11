@@ -8,3 +8,4 @@
 ## Introductory Logic for Philosophy
 * Meaning and Argument by Ernest Lepore
 * Introduction to Logic by Irving M. Copi
+* A Concise Introduction to Logic by Patrick Hurley
