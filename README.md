@@ -7,3 +7,4 @@
 * Tao Te Ching by Lao Tzu
 ## Introductory Logic for Philosophy
 * Meaning and Argument by Ernest Lepore
+* Introduction to Logic by Irving M. Copi
