@@ -12,3 +12,4 @@
 * An Introduction to Formal Logic by Peter Smith
 ## Great Fiction
 * Crime and Punishment by Fyodor Dostoyevsky
+* The Brothers Karamazov by Fyodor Dostoyevsky
