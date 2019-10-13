@@ -11,3 +11,4 @@
 * A Concise Introduction to Logic by Patrick Hurley
 * An Introduction to Formal Logic by Peter Smith
 ## Great Fiction
+* Crime and Punishment by Fyodor Dostoyevsky
